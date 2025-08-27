@@ -1,0 +1,403 @@
+2025-08-27 20:07:49,946 - __main__ - WARNING - Config file config.json not found, using defaults
+2025-08-27 20:07:49,947 - __main__ - INFO - Trading symbols: ['AAPL', 'GOOGL', 'MSFT']
+2025-08-27 20:07:49,947 - __main__ - INFO - Initial capital: $10000
+2025-08-27 20:07:49,947 - __main__ - INFO - Starting trading bot...
+2025-08-27 20:07:49,949 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:07:49,949 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:08:06,884 - __main__ - WARNING - Config file config.json not found, using defaults
+2025-08-27 20:08:06,884 - __main__ - INFO - Trading symbols: ['AAPL', 'GOOGL', 'MSFT']
+2025-08-27 20:08:06,885 - __main__ - INFO - Initial capital: $10000
+2025-08-27 20:08:06,885 - __main__ - INFO - Starting trading bot...
+2025-08-27 20:08:06,887 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:08:06,887 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:08:49,950 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:08:49,950 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:09:06,888 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:09:06,888 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:09:49,951 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:09:49,951 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:10:06,889 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:10:06,889 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:10:49,951 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:10:49,951 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:11:06,889 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:11:06,889 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:11:49,952 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:11:49,952 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:12:06,890 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:12:06,890 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:12:49,953 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:12:49,953 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:13:06,891 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:13:06,891 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:13:49,954 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:13:49,954 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:14:06,892 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:14:06,892 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:14:49,954 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:14:49,954 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:15:06,892 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:15:06,892 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:15:49,955 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:15:49,955 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:16:06,893 - __main__ - INFO - Portfolio Value: $10000.00, Cash: $10000.00
+2025-08-27 20:16:06,893 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:16:49,956 - __main__ - INFO - BUY: 9.952307815373773 shares of MSFT at $100.48
+2025-08-27 20:16:49,956 - __main__ - INFO - Portfolio Value: $10010.15, Cash: $9000.00
+2025-08-27 20:16:49,956 - __main__ - INFO - Active Positions: 1
+2025-08-27 20:17:06,893 - __main__ - INFO - BUY: 9.53150929687785 shares of MSFT at $104.92
+2025-08-27 20:17:06,893 - __main__ - INFO - Portfolio Value: $9980.94, Cash: $9000.00
+2025-08-27 20:17:06,893 - __main__ - INFO - Active Positions: 1
+2025-08-27 20:18:06,894 - __main__ - INFO - BUY: 10.404848171067242 shares of AAPL at $95.93
+2025-08-27 20:18:06,894 - __main__ - INFO - BUY: 10.44326691803293 shares of GOOGL at $95.84
+2025-08-27 20:18:06,895 - __main__ - INFO - SELL: 9.53150929687785 shares of MSFT at $101.73
+2025-08-27 20:18:06,895 - __main__ - INFO - P&L: $-30.39 (-3.04%)
+2025-08-27 20:18:06,895 - __main__ - INFO - Portfolio Value: $10036.34, Cash: $7970.63
+2025-08-27 20:18:06,895 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:19:06,896 - __main__ - INFO - BUY: 9.830250834904643 shares of MSFT at $102.75
+2025-08-27 20:19:06,896 - __main__ - INFO - Portfolio Value: $10016.05, Cash: $6960.53
+2025-08-27 20:19:06,896 - __main__ - INFO - Active Positions: 3
+2025-08-27 20:20:06,900 - __main__ - INFO - SELL: 10.404848171067242 shares of AAPL at $95.72
+2025-08-27 20:20:06,900 - __main__ - INFO - P&L: $-2.16 (-0.22%)
+2025-08-27 20:20:06,901 - __main__ - INFO - SELL: 10.44326691803293 shares of GOOGL at $104.26
+2025-08-27 20:20:06,901 - __main__ - INFO - P&L: $87.96 (8.79%)
+2025-08-27 20:20:06,901 - __main__ - INFO - SELL: 9.830250834904643 shares of MSFT at $95.44
+2025-08-27 20:20:06,901 - __main__ - INFO - P&L: $-71.94 (-7.12%)
+2025-08-27 20:20:06,901 - __main__ - INFO - Portfolio Value: $9983.47, Cash: $9983.47
+2025-08-27 20:20:06,901 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:21:06,902 - __main__ - INFO - Portfolio Value: $9983.47, Cash: $9983.47
+2025-08-27 20:21:06,902 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:22:06,902 - __main__ - INFO - Portfolio Value: $9983.47, Cash: $9983.47
+2025-08-27 20:22:06,902 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:23:06,903 - __main__ - INFO - Portfolio Value: $9983.47, Cash: $9983.47
+2025-08-27 20:23:06,904 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:24:06,905 - __main__ - INFO - Portfolio Value: $9983.47, Cash: $9983.47
+2025-08-27 20:24:06,905 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:25:06,906 - __main__ - INFO - Portfolio Value: $9983.47, Cash: $9983.47
+2025-08-27 20:25:06,906 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:26:06,907 - __main__ - INFO - Portfolio Value: $9983.47, Cash: $9983.47
+2025-08-27 20:26:06,907 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:27:06,908 - __main__ - INFO - BUY: 9.562712736359769 shares of MSFT at $104.40
+2025-08-27 20:27:06,908 - __main__ - INFO - Portfolio Value: $9972.07, Cash: $8985.12
+2025-08-27 20:27:06,908 - __main__ - INFO - Active Positions: 1
+2025-08-27 20:28:06,909 - __main__ - INFO - BUY: 9.859432960882202 shares of AAPL at $101.14
+2025-08-27 20:28:06,909 - __main__ - INFO - BUY: 9.613909585777375 shares of GOOGL at $102.99
+2025-08-27 20:28:06,909 - __main__ - INFO - Portfolio Value: $9940.28, Cash: $6997.75
+2025-08-27 20:28:06,909 - __main__ - INFO - Active Positions: 3
+2025-08-27 20:29:06,910 - __main__ - INFO - Portfolio Value: $9941.02, Cash: $6997.75
+2025-08-27 20:29:06,911 - __main__ - INFO - Active Positions: 3
+2025-08-27 20:30:06,912 - __main__ - INFO - SELL: 9.613909585777375 shares of GOOGL at $98.00
+2025-08-27 20:30:06,912 - __main__ - INFO - P&L: $-48.01 (-4.85%)
+2025-08-27 20:30:06,912 - __main__ - INFO - Portfolio Value: $9934.19, Cash: $7939.90
+2025-08-27 20:30:06,912 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:31:06,913 - __main__ - INFO - SELL: 9.859432960882202 shares of AAPL at $103.36
+2025-08-27 20:31:06,913 - __main__ - INFO - P&L: $21.83 (2.19%)
+2025-08-27 20:31:06,914 - __main__ - INFO - BUY: 10.190045930679426 shares of GOOGL at $96.84
+2025-08-27 20:31:06,914 - __main__ - INFO - Portfolio Value: $9947.02, Cash: $7972.16
+2025-08-27 20:31:06,914 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:32:06,914 - __main__ - INFO - BUY: 9.982502135421557 shares of AAPL at $99.64
+2025-08-27 20:32:06,914 - __main__ - INFO - SELL: 9.562712736359769 shares of MSFT at $97.89
+2025-08-27 20:32:06,914 - __main__ - INFO - P&L: $-62.20 (-6.23%)
+2025-08-27 20:32:06,914 - __main__ - INFO - Portfolio Value: $9966.47, Cash: $7913.60
+2025-08-27 20:32:06,914 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:33:06,916 - __main__ - INFO - SELL: 10.190045930679426 shares of GOOGL at $96.85
+2025-08-27 20:33:06,916 - __main__ - INFO - P&L: $0.08 (0.01%)
+2025-08-27 20:33:06,916 - __main__ - INFO - BUY: 10.175972274692716 shares of MSFT at $97.63
+2025-08-27 20:33:06,916 - __main__ - INFO - Portfolio Value: $9849.16, Cash: $7906.96
+2025-08-27 20:33:06,916 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:34:06,917 - __main__ - INFO - SELL: 9.982502135421557 shares of AAPL at $98.66
+2025-08-27 20:34:06,917 - __main__ - INFO - P&L: $-9.81 (-0.99%)
+2025-08-27 20:34:06,917 - __main__ - INFO - Portfolio Value: $9861.91, Cash: $8891.86
+2025-08-27 20:34:06,917 - __main__ - INFO - Active Positions: 1
+2025-08-27 20:35:06,918 - __main__ - INFO - BUY: 9.994562985686077 shares of AAPL at $98.67
+2025-08-27 20:35:06,918 - __main__ - INFO - BUY: 9.727632444292693 shares of GOOGL at $101.10
+2025-08-27 20:35:06,918 - __main__ - INFO - SELL: 10.175972274692716 shares of MSFT at $104.08
+2025-08-27 20:35:06,918 - __main__ - INFO - P&L: $65.60 (6.60%)
+2025-08-27 20:35:06,918 - __main__ - INFO - Portfolio Value: $9927.34, Cash: $7981.30
+2025-08-27 20:35:06,918 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:36:06,919 - __main__ - INFO - SELL: 9.727632444292693 shares of GOOGL at $104.50
+2025-08-27 20:36:06,919 - __main__ - INFO - P&L: $33.04 (3.36%)
+2025-08-27 20:36:06,919 - __main__ - INFO - Portfolio Value: $10025.03, Cash: $8997.81
+2025-08-27 20:36:06,919 - __main__ - INFO - Active Positions: 1
+2025-08-27 20:37:06,920 - __main__ - INFO - SELL: 9.994562985686077 shares of AAPL at $100.84
+2025-08-27 20:37:06,920 - __main__ - INFO - P&L: $21.70 (2.20%)
+2025-08-27 20:37:06,920 - __main__ - INFO - Portfolio Value: $10005.71, Cash: $10005.71
+2025-08-27 20:37:06,920 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:38:06,921 - __main__ - INFO - Portfolio Value: $10005.71, Cash: $10005.71
+2025-08-27 20:38:06,922 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:39:06,922 - __main__ - INFO - Portfolio Value: $10005.71, Cash: $10005.71
+2025-08-27 20:39:06,922 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:40:06,923 - __main__ - INFO - BUY: 9.588275847236142 shares of AAPL at $104.35
+2025-08-27 20:40:06,923 - __main__ - INFO - BUY: 9.668355904163816 shares of MSFT at $102.70
+2025-08-27 20:40:06,923 - __main__ - INFO - Portfolio Value: $9988.75, Cash: $8012.15
+2025-08-27 20:40:06,923 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:41:06,925 - __main__ - INFO - SELL: 9.588275847236142 shares of AAPL at $98.38
+2025-08-27 20:41:06,925 - __main__ - INFO - P&L: $-57.29 (-5.73%)
+2025-08-27 20:41:06,925 - __main__ - INFO - BUY: 9.489359995119656 shares of GOOGL at $104.08
+2025-08-27 20:41:06,925 - __main__ - INFO - Portfolio Value: $9860.60, Cash: $7967.81
+2025-08-27 20:41:06,925 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:42:06,926 - __main__ - INFO - BUY: 9.971374487116103 shares of AAPL at $98.89
+2025-08-27 20:42:06,926 - __main__ - INFO - SELL: 9.668355904163816 shares of MSFT at $101.30
+2025-08-27 20:42:06,926 - __main__ - INFO - P&L: $-13.57 (-1.37%)
+2025-08-27 20:42:06,926 - __main__ - INFO - Portfolio Value: $9865.88, Cash: $7961.17
+2025-08-27 20:42:06,926 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:43:06,927 - __main__ - INFO - SELL: 9.489359995119656 shares of GOOGL at $96.32
+2025-08-27 20:43:06,928 - __main__ - INFO - P&L: $-73.60 (-7.45%)
+2025-08-27 20:43:06,928 - __main__ - INFO - BUY: 10.097238023061006 shares of MSFT at $97.66
+2025-08-27 20:43:06,928 - __main__ - INFO - Portfolio Value: $9874.60, Cash: $7889.12
+2025-08-27 20:43:06,928 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:44:06,929 - __main__ - INFO - SELL: 9.971374487116103 shares of AAPL at $103.88
+2025-08-27 20:44:06,929 - __main__ - INFO - P&L: $49.72 (5.04%)
+2025-08-27 20:44:06,929 - __main__ - INFO - BUY: 9.995316386970583 shares of GOOGL at $99.57
+2025-08-27 20:44:06,929 - __main__ - INFO - Portfolio Value: $9973.77, Cash: $7929.63
+2025-08-27 20:44:06,929 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:45:06,930 - __main__ - INFO - SELL: 9.995316386970583 shares of GOOGL at $99.17
+2025-08-27 20:45:06,930 - __main__ - INFO - P&L: $-4.08 (-0.41%)
+2025-08-27 20:45:06,931 - __main__ - INFO - SELL: 10.097238023061006 shares of MSFT at $103.26
+2025-08-27 20:45:06,931 - __main__ - INFO - P&L: $56.62 (5.74%)
+2025-08-27 20:45:06,931 - __main__ - INFO - Portfolio Value: $9963.50, Cash: $9963.50
+2025-08-27 20:45:06,931 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:46:06,932 - __main__ - INFO - Portfolio Value: $9963.50, Cash: $9963.50
+2025-08-27 20:46:06,932 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:47:06,932 - __main__ - INFO - Portfolio Value: $9963.50, Cash: $9963.50
+2025-08-27 20:47:06,932 - __main__ - INFO - Active Positions: 0
+2025-08-27 20:48:06,933 - __main__ - INFO - BUY: 9.522883369428735 shares of GOOGL at $104.63
+2025-08-27 20:48:06,934 - __main__ - INFO - BUY: 10.175212087655382 shares of MSFT at $97.31
+2025-08-27 20:48:06,934 - __main__ - INFO - Portfolio Value: $9967.09, Cash: $7977.02
+2025-08-27 20:48:06,934 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:49:06,935 - __main__ - INFO - BUY: 9.567384366548994 shares of AAPL at $104.18
+2025-08-27 20:49:06,935 - __main__ - INFO - Portfolio Value: $9855.65, Cash: $6980.31
+2025-08-27 20:49:06,935 - __main__ - INFO - Active Positions: 3
+2025-08-27 20:50:06,936 - __main__ - INFO - SELL: 9.567384366548994 shares of AAPL at $96.77
+2025-08-27 20:50:06,936 - __main__ - INFO - P&L: $-70.85 (-7.11%)
+2025-08-27 20:50:06,936 - __main__ - INFO - Portfolio Value: $9901.05, Cash: $7906.17
+2025-08-27 20:50:06,936 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:51:06,937 - __main__ - INFO - SELL: 10.175212087655382 shares of MSFT at $102.97
+2025-08-27 20:51:06,937 - __main__ - INFO - P&L: $57.62 (5.82%)
+2025-08-27 20:51:06,937 - __main__ - INFO - Portfolio Value: $9882.16, Cash: $8953.91
+2025-08-27 20:51:06,937 - __main__ - INFO - Active Positions: 1
+2025-08-27 20:52:06,938 - __main__ - INFO - BUY: 9.471834232942065 shares of AAPL at $104.33
+2025-08-27 20:52:06,939 - __main__ - INFO - Portfolio Value: $9861.30, Cash: $7965.70
+2025-08-27 20:52:06,939 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:53:06,939 - __main__ - INFO - BUY: 9.99625157724915 shares of MSFT at $98.17
+2025-08-27 20:53:06,939 - __main__ - INFO - Portfolio Value: $9864.03, Cash: $6984.35
+2025-08-27 20:53:06,939 - __main__ - INFO - Active Positions: 3
+2025-08-27 20:54:06,940 - __main__ - INFO - Portfolio Value: $9891.55, Cash: $6984.35
+2025-08-27 20:54:06,940 - __main__ - INFO - Active Positions: 3
+2025-08-27 20:55:06,941 - __main__ - INFO - Portfolio Value: $9847.92, Cash: $6984.35
+2025-08-27 20:55:06,941 - __main__ - INFO - Active Positions: 3
+2025-08-27 20:56:06,942 - __main__ - INFO - Portfolio Value: $9825.79, Cash: $6984.35
+2025-08-27 20:56:06,942 - __main__ - INFO - Active Positions: 3
+2025-08-27 20:57:06,942 - __main__ - INFO - SELL: 9.522883369428735 shares of GOOGL at $104.99
+2025-08-27 20:57:06,942 - __main__ - INFO - P&L: $3.50 (0.35%)
+2025-08-27 20:57:06,942 - __main__ - INFO - Portfolio Value: $9881.23, Cash: $7984.20
+2025-08-27 20:57:06,942 - __main__ - INFO - Active Positions: 2
+2025-08-27 20:58:06,943 - __main__ - INFO - SELL: 9.471834232942065 shares of AAPL at $97.66
+2025-08-27 20:58:06,943 - __main__ - INFO - P&L: $-63.21 (-6.40%)
+2025-08-27 20:58:06,943 - __main__ - INFO - BUY: 9.831538708136222 shares of GOOGL at $100.76
+2025-08-27 20:58:06,943 - __main__ - INFO - SELL: 9.99625157724915 shares of MSFT at $95.90
+2025-08-27 20:58:06,943 - __main__ - INFO - P&L: $-22.73 (-2.32%)
+2025-08-27 20:58:06,943 - __main__ - INFO - Portfolio Value: $9854.43, Cash: $8877.18
+2025-08-27 20:58:06,943 - __main__ - INFO - Active Positions: 1
+2025-08-27 20:59:06,945 - __main__ - INFO - SELL: 9.831538708136222 shares of GOOGL at $95.38
+2025-08-27 20:59:06,945 - __main__ - INFO - P&L: $-52.94 (-5.34%)
+2025-08-27 20:59:06,945 - __main__ - INFO - Portfolio Value: $9814.88, Cash: $9814.88
+2025-08-27 20:59:06,945 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:00:06,946 - __main__ - INFO - Portfolio Value: $9814.88, Cash: $9814.88
+2025-08-27 21:00:06,946 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:01:06,947 - __main__ - INFO - Portfolio Value: $9814.88, Cash: $9814.88
+2025-08-27 21:01:06,947 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:02:06,948 - __main__ - INFO - Portfolio Value: $9814.88, Cash: $9814.88
+2025-08-27 21:02:06,948 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:03:06,948 - __main__ - INFO - Portfolio Value: $9814.88, Cash: $9814.88
+2025-08-27 21:03:06,949 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:04:06,949 - __main__ - INFO - Portfolio Value: $9814.88, Cash: $9814.88
+2025-08-27 21:04:06,949 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:05:06,950 - __main__ - INFO - Portfolio Value: $9814.88, Cash: $9814.88
+2025-08-27 21:05:06,950 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:06:06,951 - __main__ - INFO - BUY: 9.373472495423979 shares of GOOGL at $104.71
+2025-08-27 21:06:06,951 - __main__ - INFO - BUY: 9.655978655643711 shares of MSFT at $101.07
+2025-08-27 21:06:06,951 - __main__ - INFO - Portfolio Value: $9768.40, Cash: $7857.47
+2025-08-27 21:06:06,951 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:07:06,952 - __main__ - INFO - BUY: 10.161380004571821 shares of AAPL at $96.13
+2025-08-27 21:07:06,952 - __main__ - INFO - SELL: 9.373472495423979 shares of GOOGL at $101.23
+2025-08-27 21:07:06,952 - __main__ - INFO - P&L: $-32.59 (-3.32%)
+2025-08-27 21:07:06,952 - __main__ - INFO - Portfolio Value: $9820.47, Cash: $7829.53
+2025-08-27 21:07:06,952 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:08:06,953 - __main__ - INFO - BUY: 9.736788678358128 shares of GOOGL at $100.70
+2025-08-27 21:08:06,953 - __main__ - INFO - Portfolio Value: $9902.99, Cash: $6849.02
+2025-08-27 21:08:06,953 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:09:06,954 - __main__ - INFO - SELL: 9.736788678358128 shares of GOOGL at $100.49
+2025-08-27 21:09:06,954 - __main__ - INFO - P&L: $-2.07 (-0.21%)
+2025-08-27 21:09:06,955 - __main__ - INFO - SELL: 9.655978655643711 shares of MSFT at $104.06
+2025-08-27 21:09:06,955 - __main__ - INFO - P&L: $28.90 (2.96%)
+2025-08-27 21:09:06,955 - __main__ - INFO - Portfolio Value: $9829.09, Cash: $8832.29
+2025-08-27 21:09:06,955 - __main__ - INFO - Active Positions: 1
+2025-08-27 21:10:06,955 - __main__ - INFO - SELL: 10.161380004571821 shares of AAPL at $98.07
+2025-08-27 21:10:06,955 - __main__ - INFO - P&L: $19.67 (2.01%)
+2025-08-27 21:10:06,955 - __main__ - INFO - Portfolio Value: $9828.80, Cash: $9828.80
+2025-08-27 21:10:06,955 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:11:06,957 - __main__ - INFO - Portfolio Value: $9828.80, Cash: $9828.80
+2025-08-27 21:11:06,957 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:12:06,958 - __main__ - INFO - BUY: 9.728420337379255 shares of AAPL at $101.03
+2025-08-27 21:12:06,958 - __main__ - INFO - BUY: 9.404897950893815 shares of GOOGL at $104.29
+2025-08-27 21:12:06,958 - __main__ - INFO - BUY: 9.841792703605138 shares of MSFT at $99.78
+2025-08-27 21:12:06,958 - __main__ - INFO - Portfolio Value: $9739.22, Cash: $6883.00
+2025-08-27 21:12:06,958 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:13:06,959 - __main__ - INFO - Portfolio Value: $9760.01, Cash: $6883.00
+2025-08-27 21:13:06,960 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:14:06,960 - __main__ - INFO - Portfolio Value: $9737.68, Cash: $6883.00
+2025-08-27 21:14:06,960 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:15:06,961 - __main__ - INFO - Portfolio Value: $9776.12, Cash: $6883.00
+2025-08-27 21:15:06,961 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:16:06,962 - __main__ - INFO - SELL: 9.404897950893815 shares of GOOGL at $103.72
+2025-08-27 21:16:06,962 - __main__ - INFO - P&L: $-5.40 (-0.55%)
+2025-08-27 21:16:06,962 - __main__ - INFO - Portfolio Value: $9796.72, Cash: $7858.47
+2025-08-27 21:16:06,962 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:17:06,963 - __main__ - INFO - BUY: 9.944429724683808 shares of GOOGL at $98.06
+2025-08-27 21:17:06,963 - __main__ - INFO - Portfolio Value: $9861.87, Cash: $6883.31
+2025-08-27 21:17:06,963 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:18:06,965 - __main__ - INFO - SELL: 9.728420337379255 shares of AAPL at $102.04
+2025-08-27 21:18:06,965 - __main__ - INFO - P&L: $9.77 (0.99%)
+2025-08-27 21:18:06,965 - __main__ - INFO - SELL: 9.944429724683808 shares of GOOGL at $100.43
+2025-08-27 21:18:06,965 - __main__ - INFO - P&L: $23.59 (2.42%)
+2025-08-27 21:18:06,966 - __main__ - INFO - SELL: 9.841792703605138 shares of MSFT at $101.30
+2025-08-27 21:18:06,966 - __main__ - INFO - P&L: $14.88 (1.52%)
+2025-08-27 21:18:06,966 - __main__ - INFO - Portfolio Value: $9871.63, Cash: $9871.63
+2025-08-27 21:18:06,966 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:19:06,966 - __main__ - INFO - Portfolio Value: $9871.63, Cash: $9871.63
+2025-08-27 21:19:06,966 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:20:06,967 - __main__ - INFO - Portfolio Value: $9871.63, Cash: $9871.63
+2025-08-27 21:20:06,967 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:21:06,968 - __main__ - INFO - Portfolio Value: $9871.63, Cash: $9871.63
+2025-08-27 21:21:06,968 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:22:06,968 - __main__ - INFO - BUY: 9.863059735768312 shares of GOOGL at $100.09
+2025-08-27 21:22:06,968 - __main__ - INFO - Portfolio Value: $9909.07, Cash: $8884.47
+2025-08-27 21:22:06,968 - __main__ - INFO - Active Positions: 1
+2025-08-27 21:23:06,969 - __main__ - INFO - SELL: 9.863059735768312 shares of GOOGL at $103.84
+2025-08-27 21:23:06,969 - __main__ - INFO - P&L: $36.99 (3.75%)
+2025-08-27 21:23:06,969 - __main__ - INFO - Portfolio Value: $9908.62, Cash: $9908.62
+2025-08-27 21:23:06,969 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:24:06,971 - __main__ - INFO - Portfolio Value: $9908.62, Cash: $9908.62
+2025-08-27 21:24:06,971 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:25:06,971 - __main__ - INFO - Portfolio Value: $9908.62, Cash: $9908.62
+2025-08-27 21:25:06,971 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:26:06,972 - __main__ - INFO - BUY: 9.527164663679443 shares of GOOGL at $104.00
+2025-08-27 21:26:06,972 - __main__ - INFO - BUY: 9.419740594954721 shares of MSFT at $104.59
+2025-08-27 21:26:06,972 - __main__ - INFO - Portfolio Value: $9818.61, Cash: $7932.58
+2025-08-27 21:26:06,972 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:27:06,973 - __main__ - INFO - BUY: 9.98468432392988 shares of AAPL at $98.34
+2025-08-27 21:27:06,973 - __main__ - INFO - SELL: 9.419740594954721 shares of MSFT at $100.23
+2025-08-27 21:27:06,973 - __main__ - INFO - P&L: $-41.07 (-4.17%)
+2025-08-27 21:27:06,973 - __main__ - INFO - Portfolio Value: $9842.32, Cash: $7894.83
+2025-08-27 21:27:06,973 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:28:06,974 - __main__ - INFO - BUY: 9.785621805700982 shares of MSFT at $100.97
+2025-08-27 21:28:06,975 - __main__ - INFO - Portfolio Value: $9865.01, Cash: $6906.75
+2025-08-27 21:28:06,975 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:29:06,975 - __main__ - INFO - Portfolio Value: $9815.31, Cash: $6906.75
+2025-08-27 21:29:06,975 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:30:06,976 - __main__ - INFO - SELL: 9.527164663679443 shares of GOOGL at $104.30
+2025-08-27 21:30:06,976 - __main__ - INFO - P&L: $2.82 (0.28%)
+2025-08-27 21:30:06,976 - __main__ - INFO - Portfolio Value: $9813.32, Cash: $7900.44
+2025-08-27 21:30:06,976 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:31:06,978 - __main__ - INFO - BUY: 10.241475283875337 shares of GOOGL at $96.23
+2025-08-27 21:31:06,978 - __main__ - INFO - Portfolio Value: $9817.65, Cash: $6914.89
+2025-08-27 21:31:06,978 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:32:06,979 - __main__ - INFO - SELL: 9.785621805700982 shares of MSFT at $98.37
+2025-08-27 21:32:06,979 - __main__ - INFO - P&L: $-25.44 (-2.57%)
+2025-08-27 21:32:06,979 - __main__ - INFO - Portfolio Value: $9836.72, Cash: $7877.52
+2025-08-27 21:32:06,979 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:33:06,980 - __main__ - INFO - SELL: 9.98468432392988 shares of AAPL at $100.94
+2025-08-27 21:33:06,980 - __main__ - INFO - P&L: $25.95 (2.64%)
+2025-08-27 21:33:06,980 - __main__ - INFO - SELL: 10.241475283875337 shares of GOOGL at $95.10
+2025-08-27 21:33:06,980 - __main__ - INFO - P&L: $-11.56 (-1.17%)
+2025-08-27 21:33:06,980 - __main__ - INFO - Portfolio Value: $9859.33, Cash: $9859.33
+2025-08-27 21:33:06,980 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:34:06,981 - __main__ - INFO - Portfolio Value: $9859.33, Cash: $9859.33
+2025-08-27 21:34:06,981 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:35:06,982 - __main__ - INFO - Portfolio Value: $9859.33, Cash: $9859.33
+2025-08-27 21:35:06,982 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:36:06,983 - __main__ - INFO - BUY: 9.67168625858284 shares of AAPL at $101.94
+2025-08-27 21:36:06,983 - __main__ - INFO - BUY: 10.281553238821134 shares of GOOGL at $96.04
+2025-08-27 21:36:06,983 - __main__ - INFO - BUY: 9.9901756078551 shares of MSFT at $98.57
+2025-08-27 21:36:06,983 - __main__ - INFO - Portfolio Value: $9901.45, Cash: $6901.22
+2025-08-27 21:36:06,983 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:37:06,984 - __main__ - INFO - SELL: 9.67168625858284 shares of AAPL at $99.44
+2025-08-27 21:37:06,984 - __main__ - INFO - P&L: $-24.20 (-2.45%)
+2025-08-27 21:37:06,984 - __main__ - INFO - Portfolio Value: $9835.58, Cash: $7862.95
+2025-08-27 21:37:06,984 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:38:06,985 - __main__ - INFO - BUY: 9.603427452677863 shares of AAPL at $102.42
+2025-08-27 21:38:06,985 - __main__ - INFO - Portfolio Value: $9843.60, Cash: $6879.39
+2025-08-27 21:38:06,985 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:39:06,986 - __main__ - INFO - Portfolio Value: $9860.31, Cash: $6879.39
+2025-08-27 21:39:06,986 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:40:06,987 - __main__ - INFO - SELL: 9.603427452677863 shares of AAPL at $101.74
+2025-08-27 21:40:06,987 - __main__ - INFO - P&L: $-6.53 (-0.66%)
+2025-08-27 21:40:06,987 - __main__ - INFO - Portfolio Value: $9858.24, Cash: $7856.42
+2025-08-27 21:40:06,987 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:41:06,988 - __main__ - INFO - BUY: 9.97443892432355 shares of AAPL at $98.84
+2025-08-27 21:41:06,988 - __main__ - INFO - SELL: 10.281553238821134 shares of GOOGL at $103.44
+2025-08-27 21:41:06,988 - __main__ - INFO - P&L: $76.09 (7.71%)
+2025-08-27 21:41:06,988 - __main__ - INFO - SELL: 9.9901756078551 shares of MSFT at $99.16
+2025-08-27 21:41:06,988 - __main__ - INFO - P&L: $5.95 (0.60%)
+2025-08-27 21:41:06,988 - __main__ - INFO - Portfolio Value: $9920.59, Cash: $8924.81
+2025-08-27 21:41:06,989 - __main__ - INFO - Active Positions: 1
+2025-08-27 21:42:06,989 - __main__ - INFO - Portfolio Value: $9879.59, Cash: $8924.81
+2025-08-27 21:42:06,990 - __main__ - INFO - Active Positions: 1
+2025-08-27 21:43:06,991 - __main__ - INFO - SELL: 9.97443892432355 shares of AAPL at $96.89
+2025-08-27 21:43:06,991 - __main__ - INFO - P&L: $-19.36 (-1.96%)
+2025-08-27 21:43:06,991 - __main__ - INFO - Portfolio Value: $9891.27, Cash: $9891.27
+2025-08-27 21:43:06,991 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:44:06,992 - __main__ - INFO - Portfolio Value: $9891.27, Cash: $9891.27
+2025-08-27 21:44:06,992 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:45:06,993 - __main__ - INFO - Portfolio Value: $9891.27, Cash: $9891.27
+2025-08-27 21:45:06,993 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:46:06,993 - __main__ - INFO - BUY: 9.801292457718436 shares of GOOGL at $100.92
+2025-08-27 21:46:06,993 - __main__ - INFO - BUY: 9.90036453919954 shares of MSFT at $99.54
+2025-08-27 21:46:06,993 - __main__ - INFO - Portfolio Value: $9920.17, Cash: $7916.69
+2025-08-27 21:46:06,993 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:47:06,995 - __main__ - INFO - BUY: 9.573927575234237 shares of AAPL at $103.62
+2025-08-27 21:47:06,995 - __main__ - INFO - Portfolio Value: $9808.51, Cash: $6924.67
+2025-08-27 21:47:06,995 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:48:06,995 - __main__ - INFO - SELL: 9.801292457718436 shares of GOOGL at $100.27
+2025-08-27 21:48:06,995 - __main__ - INFO - P&L: $-6.35 (-0.64%)
+2025-08-27 21:48:06,995 - __main__ - INFO - SELL: 9.90036453919954 shares of MSFT at $104.65
+2025-08-27 21:48:06,995 - __main__ - INFO - P&L: $50.66 (5.14%)
+2025-08-27 21:48:06,995 - __main__ - INFO - Portfolio Value: $9920.54, Cash: $8943.56
+2025-08-27 21:48:06,995 - __main__ - INFO - Active Positions: 1
+2025-08-27 21:49:06,997 - __main__ - INFO - Portfolio Value: $9943.05, Cash: $8943.56
+2025-08-27 21:49:06,997 - __main__ - INFO - Active Positions: 1
+2025-08-27 21:50:06,998 - __main__ - INFO - SELL: 9.573927575234237 shares of AAPL at $98.21
+2025-08-27 21:50:06,998 - __main__ - INFO - P&L: $-51.78 (-5.22%)
+2025-08-27 21:50:06,998 - __main__ - INFO - BUY: 9.740590720406601 shares of MSFT at $101.47
+2025-08-27 21:50:06,998 - __main__ - INFO - Portfolio Value: $9864.51, Cash: $8895.42
+2025-08-27 21:50:06,999 - __main__ - INFO - Active Positions: 1
+2025-08-27 21:51:06,999 - __main__ - INFO - BUY: 9.516800146037223 shares of AAPL at $103.65
+2025-08-27 21:51:06,999 - __main__ - INFO - BUY: 9.8539938292081 shares of GOOGL at $98.98
+2025-08-27 21:51:06,999 - __main__ - INFO - Portfolio Value: $9895.45, Cash: $6933.60
+2025-08-27 21:51:06,999 - __main__ - INFO - Active Positions: 3
+2025-08-27 21:52:07,000 - __main__ - INFO - SELL: 9.516800146037223 shares of AAPL at $97.72
+2025-08-27 21:52:07,000 - __main__ - INFO - P&L: $-56.50 (-5.73%)
+2025-08-27 21:52:07,000 - __main__ - INFO - Portfolio Value: $9758.72, Cash: $7863.56
+2025-08-27 21:52:07,000 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:53:07,001 - __main__ - INFO - BUY: 9.467397955378496 shares of AAPL at $103.08
+2025-08-27 21:53:07,001 - __main__ - INFO - SELL: 9.740590720406601 shares of MSFT at $96.32
+2025-08-27 21:53:07,001 - __main__ - INFO - P&L: $-50.21 (-5.08%)
+2025-08-27 21:53:07,001 - __main__ - INFO - Portfolio Value: $9804.68, Cash: $7825.86
+2025-08-27 21:53:07,001 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:54:07,002 - __main__ - INFO - SELL: 9.467397955378496 shares of AAPL at $102.52
+2025-08-27 21:54:07,002 - __main__ - INFO - P&L: $-5.27 (-0.54%)
+2025-08-27 21:54:07,002 - __main__ - INFO - SELL: 9.8539938292081 shares of GOOGL at $102.07
+2025-08-27 21:54:07,002 - __main__ - INFO - P&L: $30.40 (3.12%)
+2025-08-27 21:54:07,002 - __main__ - INFO - Portfolio Value: $9802.23, Cash: $9802.23
+2025-08-27 21:54:07,002 - __main__ - INFO - Active Positions: 0
+2025-08-27 21:55:07,003 - __main__ - INFO - BUY: 9.41589843458137 shares of GOOGL at $104.10
+2025-08-27 21:55:07,003 - __main__ - INFO - BUY: 10.22635828358427 shares of MSFT at $95.91
+2025-08-27 21:55:07,003 - __main__ - INFO - Portfolio Value: $9791.13, Cash: $7841.17
+2025-08-27 21:55:07,003 - __main__ - INFO - Active Positions: 2
+2025-08-27 21:56:07,004 - __main__ - INFO - SELL: 9.41589843458137 shares of GOOGL at $96.55
+2025-08-27 21:56:07,004 - __main__ - INFO - P&L: $-71.13 (-7.26%)
+2025-08-27 21:56:07,004 - __main__ - INFO - SELL: 10.22635828358427 shares of MSFT at $100.68
+2025-08-27 21:56:07,004 - __main__ - INFO - P&L: $48.73 (4.97%)
+2025-08-27 21:56:07,004 - __main__ - INFO - Portfolio Value: $9779.83, Cash: $9779.83
+2025-08-27 21:56:07,005 - __main__ - INFO - Active Positions: 0

@@ -1,0 +1,26 @@
+{
+    "fyers": {
+        "client_id": "YOUR_FYERS_CLIENT_ID",
+        "secret_key": "YOUR_FYERS_SECRET_KEY",
+        "redirect_uri": "https://trade.fyers.in/api-login/redirect-to-app",
+        "access_token": "YOUR_FYERS_ACCESS_TOKEN"
+    },
+    "risk_management": {
+        "max_position_value": 50000,
+        "max_daily_loss": 10000,
+        "max_positions": 3,
+        "stop_loss_pct": 200,
+        "profit_target_pct": 50
+    },
+    "trading": {
+        "symbols": ["NIFTY", "BANKNIFTY"],
+        "cycle_interval_minutes": 5,
+        "confidence_threshold": 60,
+        "gap_threshold": 0.5
+    },
+    "ml_model": {
+        "retrain_interval_hours": 24,
+        "feature_lookback_days": 90,
+        "prediction_threshold": 0.6
+    }
+}
