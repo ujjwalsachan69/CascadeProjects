@@ -2,6 +2,8 @@
 """
 =============================================================================
 MAIN TRADING BOT FILE - This is the heart of your trading system
+MAIN TRADING BOT FILE - This is the heart of your trading system
+MAIN TRADING BOT FILE - This is the heart of your trading system
 =============================================================================
 
 PURPOSE: This file runs the complete automated trading bot that:
